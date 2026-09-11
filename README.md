@@ -241,3 +241,6 @@ This repository serves as the official landing page for Recipes Ship. The softwa
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://recipeship.com)
 
 **Get the most recent version of Recipes Ship today!**
+
+---
+**Last updated:** 2026-09-11 09:30:25 UTC
